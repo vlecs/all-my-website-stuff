@@ -1,0 +1,11 @@
+.card {
+    background-color: rgb(184, 154, 159);
+    width: 500px;
+    height: 200px;
+}
+h2 {
+    color: rgb(31, 7, 21)
+}
+p {
+    color: white
+}

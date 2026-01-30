@@ -1,0 +1,26 @@
+/* . represents a class selector in CSS */
+.city {
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+/* # represents an ID in CSS */
+#london {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(193, 226, 245);
+}
+#paris {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(245, 209, 233);
+}
+#tokyo {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(150, 216, 216);
+}
+img {
+  border-radius: 50%;
+  width: 300px;
+  height: 275px
+}
