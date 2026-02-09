@@ -2,8 +2,12 @@ h1{
     text-align: center;
     color: rgb(102, 142, 230);
 }
+h2 {
+    text-align: center;
+}
 table, th, td {
     border: 1px solid black;
-    background-color: rgb(43, 97, 133);
+    background-color: rgb(88, 132, 161);
     color: white;
+    
 }
