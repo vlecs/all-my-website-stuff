@@ -1,12 +1,22 @@
 h1{
+    font-family: Verdana;
     text-align: center;
     color: rgb(232, 239, 255);
 }
 h2 {
+    font-family:'Times New Roman', Times, serif;
     text-align: center;
-    color: rgb(241, 189, 234)
+    color: rgb(156, 63, 80)
 }
-p {
-    color: rgb(0, 0, 0);
+h3 {
+    color: rgb(255, 255, 255);
     text-align: center;
+    opacity: 74%;
+    font-family: Candara;
+}
+table, th, td {
+    border: 1px solid rgb(197, 156, 180);
+    color: rgb(255, 255, 255);
+    font-family: candara;
+    font-size:large;
 }
